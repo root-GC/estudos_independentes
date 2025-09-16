@@ -6,7 +6,6 @@
 */
 
 //Criação de um objecto vazio
-
 const pessoa = {};//objecto vazio
 
 //pessoa não tem nada dentro ainda.
