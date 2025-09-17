@@ -28,7 +28,7 @@ console.log(multiplicar(4,5));// 20
 //Normalmente, tu atribuis ela a uma variável ou passas diretamente como argumento
 //para outra função.
 
-//Quano usar?
+//Quando usar?
 //   #Quando não precisas reaproveitar a função em outro lugar.
 //   #Quando ela é criada só para ser passada a outra função, como nos eventos do React.
 //
@@ -44,5 +44,7 @@ console.log(multiplicar(4,5));// 20
 
 //Importância
 //Muito usadas em callbacks, principalmente no React (onClick={()=>...}).
+
+//Continuar a pesquisar sobre funcions
 
 
